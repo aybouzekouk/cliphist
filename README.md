@@ -5,6 +5,7 @@ A small Qt Quick clipboard-history manager for Ubuntu (X11).
 Copy text or images anywhere — they're remembered. Press **Ctrl+Shift+V** and a
 translucent, animated list of your 10 most recent items appears next to the
 cursor. Click one (or use ↑/↓ + Enter) and it's pasted into the app you were in.
+[Screencast from 2026-10-28 16-48-49.webm](https://github.com/user-attachments/assets/52eca614-81b4-45e5-b762-bbe87af55191)
 
 ## Requirements
 
