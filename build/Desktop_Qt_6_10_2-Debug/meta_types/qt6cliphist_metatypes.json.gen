@@ -1,0 +1,389 @@
+[
+    {
+        "classes": [
+            {
+                "className": "ClipboardManager",
+                "lineNumber": 23,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 4,
+                        "lineNumber": 40,
+                        "name": "choose",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 5,
+                        "lineNumber": 41,
+                        "name": "clearHistory",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "ClipboardManager",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 47,
+                        "name": "hideRequested",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "lineNumber": 48,
+                        "name": "doPaste",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "paused",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 2,
+                        "lineNumber": 44,
+                        "name": "setPaused",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 3,
+                        "lineNumber": 51,
+                        "name": "onClipboardChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QAbstractListModel"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "clipboardmanager.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "GlobalHotkey",
+                "lineNumber": 11,
+                "object": true,
+                "qualifiedClassName": "GlobalHotkey",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 21,
+                        "name": "activated",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    },
+                    {
+                        "access": "public",
+                        "name": "QAbstractNativeEventFilter"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "globalhotkey.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "PasteHelper",
+                "lineNumber": 8,
+                "object": true,
+                "qualifiedClassName": "PasteHelper",
+                "slots": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 17,
+                        "name": "paste",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 1,
+                        "lineNumber": 20,
+                        "name": "inject",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "pastehelper.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "Theme",
+                "lineNumber": 7,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "lineNumber": 9,
+                        "name": "surface",
+                        "read": "surface",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QColor",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "lineNumber": 10,
+                        "name": "surfaceTop",
+                        "read": "surfaceTop",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QColor",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 2,
+                        "lineNumber": 11,
+                        "name": "border",
+                        "read": "border",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QColor",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 3,
+                        "lineNumber": 12,
+                        "name": "hairline",
+                        "read": "hairline",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QColor",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 4,
+                        "lineNumber": 13,
+                        "name": "textPrimary",
+                        "read": "textPrimary",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QColor",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 5,
+                        "lineNumber": 14,
+                        "name": "textSecondary",
+                        "read": "textSecondary",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QColor",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 6,
+                        "lineNumber": 15,
+                        "name": "accent",
+                        "read": "accent",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QColor",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 7,
+                        "lineNumber": 16,
+                        "name": "hover",
+                        "read": "hover",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QColor",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 8,
+                        "lineNumber": 17,
+                        "name": "selection",
+                        "read": "selection",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QColor",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 9,
+                        "lineNumber": 18,
+                        "name": "radius",
+                        "read": "radius",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "qreal",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 10,
+                        "lineNumber": 19,
+                        "name": "rowRadius",
+                        "read": "rowRadius",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "qreal",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 11,
+                        "lineNumber": 20,
+                        "name": "rowHeight",
+                        "read": "rowHeight",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "qreal",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 12,
+                        "lineNumber": 21,
+                        "name": "pad",
+                        "read": "pad",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "qreal",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 13,
+                        "lineNumber": 22,
+                        "name": "titleSize",
+                        "read": "titleSize",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 14,
+                        "lineNumber": 23,
+                        "name": "bodySize",
+                        "read": "bodySize",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 15,
+                        "lineNumber": 24,
+                        "name": "captionSize",
+                        "read": "captionSize",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "Theme",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "theme.h",
+        "outputRevision": 69
+    }
+]

@@ -1,0 +1,6 @@
+--resource
+/home/ayoub/cliphist/build/.qt/rcc/qmake_Cliphist.qrc
+--resource
+/home/ayoub/cliphist/build/.qt/rcc/cliphist_raw_qml_0.qrc
+/Cliphist/qml/Main.qml
+/Cliphist/qml/ClipEntryDelegate.qml

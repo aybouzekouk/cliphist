@@ -1,0 +1,34 @@
+{
+    "classes": [
+        {
+            "className": "PasteHelper",
+            "lineNumber": 8,
+            "object": true,
+            "qualifiedClassName": "PasteHelper",
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 17,
+                    "name": "paste",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 1,
+                    "lineNumber": 20,
+                    "name": "inject",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "pastehelper.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,14 @@
+-rootPath
+/home/ayoub/cliphist
+-cmake-output
+-output-file
+/home/ayoub/cliphist/build/.qt/qml_imports/cliphist_conf.cmake
+-importPath
+/home/ayoub/cliphist/build
+-importPath
+/home/ayoub/cliphist/build/Cliphist
+-importPath
+/home/ayoub/Qt/6.10.2/gcc_64/qml
+-qrcFiles
+/home/ayoub/cliphist/build/.qt/rcc/qmake_Cliphist.qrc
+/home/ayoub/cliphist/build/.qt/rcc/cliphist_raw_qml_0.qrc

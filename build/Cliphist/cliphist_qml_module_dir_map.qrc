@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/Cliphist">/home/ayoub/cliphist/build/Cliphist</file>
+
+  </qresource>
+</RCC>

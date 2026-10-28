@@ -1,0 +1,31 @@
+{
+    "classes": [
+        {
+            "className": "GlobalHotkey",
+            "lineNumber": 11,
+            "object": true,
+            "qualifiedClassName": "GlobalHotkey",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 21,
+                    "name": "activated",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                },
+                {
+                    "access": "public",
+                    "name": "QAbstractNativeEventFilter"
+                }
+            ]
+        }
+    ],
+    "inputFile": "globalhotkey.h",
+    "outputRevision": 69
+}

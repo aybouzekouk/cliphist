@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Cliphist">
+    <file alias="qmldir">/home/ayoub/cliphist/build/Cliphist/qmldir</file>
+  </qresource>
+</RCC>
+

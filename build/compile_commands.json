@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/home/ayoub/cliphist/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/ayoub/cliphist/build/cliphist_autogen/include -I/home/ayoub/cliphist -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQml -isystem /home/ayoub/Qt/6.10.2/gcc_64/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/ayoub/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQmlIntegration -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtNetwork -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQuick -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/ayoub/.local/x11dev/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtOpenGL -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/cliphist.dir/cliphist_autogen/mocs_compilation.cpp.o -c /home/ayoub/cliphist/build/cliphist_autogen/mocs_compilation.cpp",
+  "file": "/home/ayoub/cliphist/build/cliphist_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/cliphist.dir/cliphist_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/ayoub/cliphist/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/ayoub/cliphist/build/cliphist_autogen/include -I/home/ayoub/cliphist -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQml -isystem /home/ayoub/Qt/6.10.2/gcc_64/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/ayoub/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQmlIntegration -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtNetwork -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQuick -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/ayoub/.local/x11dev/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtOpenGL -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/cliphist.dir/src/main.cpp.o -c /home/ayoub/cliphist/src/main.cpp",
+  "file": "/home/ayoub/cliphist/src/main.cpp",
+  "output": "CMakeFiles/cliphist.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ayoub/cliphist/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/ayoub/cliphist/build/cliphist_autogen/include -I/home/ayoub/cliphist -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQml -isystem /home/ayoub/Qt/6.10.2/gcc_64/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/ayoub/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQmlIntegration -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtNetwork -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQuick -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/ayoub/.local/x11dev/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtOpenGL -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/cliphist.dir/src/clipboardmanager.cpp.o -c /home/ayoub/cliphist/src/clipboardmanager.cpp",
+  "file": "/home/ayoub/cliphist/src/clipboardmanager.cpp",
+  "output": "CMakeFiles/cliphist.dir/src/clipboardmanager.cpp.o"
+},
+{
+  "directory": "/home/ayoub/cliphist/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/ayoub/cliphist/build/cliphist_autogen/include -I/home/ayoub/cliphist -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQml -isystem /home/ayoub/Qt/6.10.2/gcc_64/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/ayoub/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQmlIntegration -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtNetwork -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQuick -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/ayoub/.local/x11dev/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtOpenGL -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/cliphist.dir/src/globalhotkey.cpp.o -c /home/ayoub/cliphist/src/globalhotkey.cpp",
+  "file": "/home/ayoub/cliphist/src/globalhotkey.cpp",
+  "output": "CMakeFiles/cliphist.dir/src/globalhotkey.cpp.o"
+},
+{
+  "directory": "/home/ayoub/cliphist/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/ayoub/cliphist/build/cliphist_autogen/include -I/home/ayoub/cliphist -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQml -isystem /home/ayoub/Qt/6.10.2/gcc_64/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/ayoub/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQmlIntegration -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtNetwork -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQuick -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/ayoub/.local/x11dev/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtOpenGL -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/cliphist.dir/src/pastehelper.cpp.o -c /home/ayoub/cliphist/src/pastehelper.cpp",
+  "file": "/home/ayoub/cliphist/src/pastehelper.cpp",
+  "output": "CMakeFiles/cliphist.dir/src/pastehelper.cpp.o"
+},
+{
+  "directory": "/home/ayoub/cliphist/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/ayoub/cliphist/build/cliphist_autogen/include -I/home/ayoub/cliphist -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQml -isystem /home/ayoub/Qt/6.10.2/gcc_64/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/ayoub/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQmlIntegration -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtNetwork -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQuick -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/ayoub/.local/x11dev/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtOpenGL -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/cliphist.dir/src/theme.cpp.o -c /home/ayoub/cliphist/src/theme.cpp",
+  "file": "/home/ayoub/cliphist/src/theme.cpp",
+  "output": "CMakeFiles/cliphist.dir/src/theme.cpp.o"
+},
+{
+  "directory": "/home/ayoub/cliphist/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/ayoub/cliphist/build/cliphist_autogen/include -I/home/ayoub/cliphist -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQml -isystem /home/ayoub/Qt/6.10.2/gcc_64/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/ayoub/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQmlIntegration -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtNetwork -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQuick -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/ayoub/.local/x11dev/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtOpenGL -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/cliphist.dir/cliphist_qmltyperegistrations.cpp.o -c /home/ayoub/cliphist/build/cliphist_qmltyperegistrations.cpp",
+  "file": "/home/ayoub/cliphist/build/cliphist_qmltyperegistrations.cpp",
+  "output": "CMakeFiles/cliphist.dir/cliphist_qmltyperegistrations.cpp.o"
+},
+{
+  "directory": "/home/ayoub/cliphist/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/ayoub/cliphist/build/cliphist_autogen/include -I/home/ayoub/cliphist -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQml -isystem /home/ayoub/Qt/6.10.2/gcc_64/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/ayoub/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQmlIntegration -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtNetwork -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQuick -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/ayoub/.local/x11dev/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtOpenGL -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/cliphist.dir/build/.qt/rcc/qrc_qmake_Cliphist.cpp.o -c /home/ayoub/cliphist/build/.qt/rcc/qrc_qmake_Cliphist.cpp",
+  "file": "/home/ayoub/cliphist/build/.qt/rcc/qrc_qmake_Cliphist.cpp",
+  "output": "CMakeFiles/cliphist.dir/build/.qt/rcc/qrc_qmake_Cliphist.cpp.o"
+},
+{
+  "directory": "/home/ayoub/cliphist/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/ayoub/cliphist/build/cliphist_autogen/include -I/home/ayoub/cliphist -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQml -isystem /home/ayoub/Qt/6.10.2/gcc_64/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/ayoub/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQmlIntegration -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtNetwork -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQuick -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/ayoub/.local/x11dev/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtOpenGL -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/cliphist.dir/build/.rcc/qmlcache/cliphist_qmlcache_loader.cpp.o -c /home/ayoub/cliphist/build/.rcc/qmlcache/cliphist_qmlcache_loader.cpp",
+  "file": "/home/ayoub/cliphist/build/.rcc/qmlcache/cliphist_qmlcache_loader.cpp",
+  "output": "CMakeFiles/cliphist.dir/build/.rcc/qmlcache/cliphist_qmlcache_loader.cpp.o"
+},
+{
+  "directory": "/home/ayoub/cliphist/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/ayoub/cliphist/build/cliphist_autogen/include -I/home/ayoub/cliphist -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQml -isystem /home/ayoub/Qt/6.10.2/gcc_64/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/ayoub/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQmlIntegration -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtNetwork -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQuick -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/ayoub/.local/x11dev/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtOpenGL -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/cliphist.dir/build/.rcc/qmlcache/cliphist_qml/Main_qml.cpp.o -c /home/ayoub/cliphist/build/.rcc/qmlcache/cliphist_qml/Main_qml.cpp",
+  "file": "/home/ayoub/cliphist/build/.rcc/qmlcache/cliphist_qml/Main_qml.cpp",
+  "output": "CMakeFiles/cliphist.dir/build/.rcc/qmlcache/cliphist_qml/Main_qml.cpp.o"
+},
+{
+  "directory": "/home/ayoub/cliphist/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/ayoub/cliphist/build/cliphist_autogen/include -I/home/ayoub/cliphist -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQml -isystem /home/ayoub/Qt/6.10.2/gcc_64/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/ayoub/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQmlIntegration -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtNetwork -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQuick -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/ayoub/.local/x11dev/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtOpenGL -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/cliphist.dir/build/.rcc/qmlcache/cliphist_qml/ClipEntryDelegate_qml.cpp.o -c /home/ayoub/cliphist/build/.rcc/qmlcache/cliphist_qml/ClipEntryDelegate_qml.cpp",
+  "file": "/home/ayoub/cliphist/build/.rcc/qmlcache/cliphist_qml/ClipEntryDelegate_qml.cpp",
+  "output": "CMakeFiles/cliphist.dir/build/.rcc/qmlcache/cliphist_qml/ClipEntryDelegate_qml.cpp.o"
+},
+{
+  "directory": "/home/ayoub/cliphist/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -I/home/ayoub/cliphist/build/cliphist_autogen/include -I/home/ayoub/cliphist -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQml -isystem /home/ayoub/Qt/6.10.2/gcc_64/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/ayoub/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQmlIntegration -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtNetwork -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtQuick -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/ayoub/.local/x11dev/include -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtOpenGL -isystem /home/ayoub/Qt/6.10.2/gcc_64/include/QtWidgets -g -std=gnu++17 -fPIC -o CMakeFiles/cliphist.dir/build/.qt/rcc/qrc_cliphist_raw_qml_0.cpp.o -c /home/ayoub/cliphist/build/.qt/rcc/qrc_cliphist_raw_qml_0.cpp",
+  "file": "/home/ayoub/cliphist/build/.qt/rcc/qrc_cliphist_raw_qml_0.cpp",
+  "output": "CMakeFiles/cliphist.dir/build/.qt/rcc/qrc_cliphist_raw_qml_0.cpp.o"
+}
+]

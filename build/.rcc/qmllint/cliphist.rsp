@@ -1,0 +1,15 @@
+--bare
+-I
+/home/ayoub/cliphist/build
+-I
+/home/ayoub/cliphist/build/Cliphist
+-I
+/home/ayoub/cliphist/build
+-I
+/home/ayoub/Qt/6.10.2/gcc_64/qml
+--resource
+/home/ayoub/cliphist/build/.qt/rcc/qmake_Cliphist.qrc
+--resource
+/home/ayoub/cliphist/build/.qt/rcc/cliphist_raw_qml_0.qrc
+/home/ayoub/cliphist/qml/Main.qml
+/home/ayoub/cliphist/qml/ClipEntryDelegate.qml

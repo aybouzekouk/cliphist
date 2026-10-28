@@ -1,0 +1,4 @@
+/home/ayoub/cliphist/build/cliphist_autogen/include/../UVLADIE3JM/moc_clipboardmanager.cpp.json
+/home/ayoub/cliphist/build/cliphist_autogen/include/../UVLADIE3JM/moc_globalhotkey.cpp.json
+/home/ayoub/cliphist/build/cliphist_autogen/include/../UVLADIE3JM/moc_pastehelper.cpp.json
+/home/ayoub/cliphist/build/cliphist_autogen/include/../UVLADIE3JM/moc_theme.cpp.json

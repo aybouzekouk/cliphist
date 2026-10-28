@@ -1,0 +1,7 @@
+module Cliphist
+typeinfo cliphist.qmltypes
+prefer :/Cliphist/
+Main 1.0 qml/Main.qml
+ClipEntryDelegate 1.0 qml/ClipEntryDelegate.qml
+depends QtQuick
+
